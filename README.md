@@ -1,10 +1,10 @@
 ### <div align="center">I'm Mazenn, a frontend freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on a Fitness SaaS  
+- 🔭 I’m currently working on several projects 
   
 
-- 🌱 I’m currently learning Python, AI Development and Backend Development  
+- 🌱 I’m currently learning several things hehe 
   
 
 - ⚡ Fun fact: I am French :)  
